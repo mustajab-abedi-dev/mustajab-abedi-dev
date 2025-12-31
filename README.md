@@ -1,5 +1,5 @@
 # 💫 About Me:
-im a CS BTech student in India<br>i am intrested in making Autonomous Robot Systems<br>I am a beginner/intermediate in Python, Frontend, and n8n Workflows<br>I am a techsavvy teen<br>i love design<br>i like to redesign everyday tools to give them best efficiency, and elegance<br>
+CS Student at NIAT, Tech-Savvy, Design-Obsessed <br>Working on Autonomous Robotics and AR Wearables @Even-Realities <br>Frontend, Python, Pytorch, n8n and YOU ;>  <br>
 
 
 ## 🌐 Socials:
