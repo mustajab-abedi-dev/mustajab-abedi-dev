@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS Student at NIAT, Tech-Savvy, Design-Obsessed <br>Working on Autonomous Robotics and AR Wearables @Even-Realities <br>Frontend, Python, Pytorch, n8n and YOU ;>  <br>
+CS Student at NIAT, Tech-Savvy, Design-Obsessed <br>Working on Autonomous Robotics and AR Wearables @Even-Realities <br>Frontend, Python, Pytorch, n8n, Kaggle, and YOU ;>  <br>
 
 
 ## 🌐 Socials:
